@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.caixa {
+    width: 300px;
+    height: 150px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    /* Centraliza o texto verticalmente */
+    line-height: 150px; 
+    
+    /* Definindo o padding (parte interna da box)*/
+    padding: 20px;
+
+    /* Definindo a margin (parte externa da box)*/
+    margin: 30px;
+
+    /* Adicionando uma borda para visualização */
+    border: 5px solid #333;
+}
